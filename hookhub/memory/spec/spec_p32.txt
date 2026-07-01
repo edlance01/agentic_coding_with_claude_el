@@ -1,0 +1,3 @@
+I want you to help me write a spec file for a project I  am building.  It's called "hookhub".  It's a plcae where cool open source Claude hooks are displayed and browsed.  Search on Claude hooks and write an initial
+  spec for this.  Remember, it's an MVP aTM and we need only the functionality of displaying the hooks.  Hooks are found in GitHub repositories, they have name, category, description and link to repo.  The main page
+  should display the hooks in a grid-like view.
