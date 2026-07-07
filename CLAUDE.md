@@ -28,3 +28,4 @@ There is no test runner configured yet.
 - Styling via Tailwind CSS v4, configured through PostCSS (`postcss.config.mjs`) — no `tailwind.config.*` file; Tailwind v4 is configured via CSS (`app/globals.css`) instead.
 - ESLint uses the flat config format (`eslint.config.mjs`), extending `eslint-config-next`'s `core-web-vitals` and `typescript` rule sets.
 - The app is currently the unmodified `create-next-app` scaffold (a single page in `app/page.tsx` and root layout in `app/layout.tsx`) — no custom routes, components, or data layer exist yet.
+
